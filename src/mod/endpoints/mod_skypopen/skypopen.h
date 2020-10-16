@@ -56,8 +56,8 @@
 #endif //WIN32
 
 #define SPANDSP_EXPOSE_INTERNAL_STRUCTURES
-#include <spandsp.h>
-#include <spandsp/version.h>
+#include <spandsp3.h>
+#include <spandsp3/version.h>
 
 #ifndef WIN32
 #include <netinet/tcp.h>

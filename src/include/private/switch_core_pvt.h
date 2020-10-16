@@ -33,7 +33,7 @@
  *
  */
 #define SPANDSP_NO_TIFF 1
-#include "spandsp.h"
+#include "spandsp3.h"
 #include "switch_profile.h"
 
 #ifndef WIN32

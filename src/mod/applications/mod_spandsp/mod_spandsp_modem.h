@@ -97,7 +97,7 @@
 #include <stdint.h>
 #endif
 #include <tiffio.h>
-#include <spandsp.h>
+#include <spandsp3.h>
 
 
 typedef enum {

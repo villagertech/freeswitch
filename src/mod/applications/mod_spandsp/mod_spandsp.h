@@ -47,7 +47,7 @@ typedef int zap_socket_t;
 
 #define MAX_MODEMS 1024
 #define SPANDSP_EXPOSE_INTERNAL_STRUCTURES
-#include <spandsp.h>
+#include <spandsp3.h>
 
 #define SPANDSP_EVENT_TXFAXRESULT "spandsp::txfaxresult"
 #define SPANDSP_EVENT_RXFAXRESULT "spandsp::rxfaxresult"

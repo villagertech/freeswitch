@@ -40,7 +40,7 @@
 #include <sys/wait.h> 
 #include <string.h>
 #include <unistd.h>
-#include <spandsp.h>
+#include <spandsp3.h>
 
 
 #define SOCKET2ME_DEBUG 0
