@@ -714,7 +714,7 @@ PKG_CHECK_MODULES([MARIADB], [libmariadb >= 3.0.9],[
   ])
 ])
 
-PKG_CHECK_MODULES([SPANDSP], [spandsp >= 3.0],[
+PKG_CHECK_MODULES([SPANDSP], [spandsp3 >= 3.0],[
   AM_CONDITIONAL([HAVE_SPANDSP],[true])],[
     AC_MSG_ERROR([no usable spandsp; please install spandsp3 devel package or equivalent])
 ])
